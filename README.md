@@ -1,5 +1,8 @@
 # Vermintide 2 Atlases
 
+### How to Crop a Texture Atlas into Individual Sprites
+This [guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3736979317) describes a script called "Atlas Cropper" created by Vladmoz. This script allows you to parse VT Lua atlas file and automatically extract individual sprites from the source atlas.
+
 -------------------------------------------------------------
 
 Date      |  Patch  | Notes
