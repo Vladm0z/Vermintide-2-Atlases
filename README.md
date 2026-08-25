@@ -7,6 +7,8 @@ This [guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3736979317) 
 
 Date      |  Patch  | Notes
 --------: | :-----: | :--------------
+08-25-26   |  6.12.0 | 
+06-02-26   |  6.11.3 | 
 06-02-26   |  6.11.2 | 
 05-25-26   |  6.11.1 | 
 05-19-26   |  6.11.0 | 
